@@ -1,0 +1,40 @@
+I used the following sources while completing this project: 
+
+To gather asset data: 
+https://finance.yahoo.com/quote/SPOT/history/
+https://finance.yahoo.com/quote/GOOG/history/
+https://finance.yahoo.com/quote/AAPL/history/
+https://finance.yahoo.com/quote/SPY/history/
+https://finance.yahoo.com/quote/TSLA/history/
+https://finance.yahoo.com/quote/NVDA/history/
+
+I used the following medium article to guide me through the process of checking the maximum return stability of a portfolio. 
+https://amangupta16.medium.com/portfolio-optimization-using-python-part-1-2-9fd80097a606
+
+I used the following resource to help me with Part 7: Build Efficient Frontier Portfolios since this was not provided in the lecture material.
+https://medium.com/@AndreHarak/compute-efficient-frontier-of-investment-portfolios-using-python-d0d2daf1e899
+
+
+Additionally, I used Generative AI, specifically ChatGPT, to clarify the topic of Frontier Portfolios in the following way: 
+
+Prompt Used: "please explain what a frontier portfolio is and why to use one"
+
+GenAI Response: "A frontier portfolio refers to a portfolio that lies on the efficient frontier — a concept from Modern Portfolio Theory (MPT) developed by Harry Markowitz.
+📌 What is the Efficient Frontier?
+The efficient frontier is a curve that shows the set of optimal portfolios offering the highest expected return for a given level of risk, or the lowest risk for a given level of expected return.
+Each point (portfolio) on this frontier is called a frontier portfolio.
+
+⚖️ Key Concepts:
+Return: The expected return of the portfolio.
+Risk: Typically measured by standard deviation of returns.
+Efficient Portfolio: A portfolio is efficient if no other portfolio exists with:
+Higher return for the same or lower risk, or Lower risk for the same or higher return.
+
+🧠 Why Use a Frontier Portfolio?
+Frontier portfolios help investors choose a risk-return balance that matches their preferences.
+A conservative investor might choose a portfolio on the lower-left (low risk, low return).
+A risk-tolerant investor might choose a portfolio on the upper-right (high risk, high return)."
+
+
+
+No further use of GenAI or additional resources outside the provided resources were used for this project. 
